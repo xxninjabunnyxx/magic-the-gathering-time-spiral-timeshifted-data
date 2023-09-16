@@ -1,0 +1,120 @@
+---
+object: card
+id: 96c9646b-9223-4d4f-a7d0-fc6208cac8b8
+oracle_id: 107f204c-9fd3-490d-8887-be63d14fc6a4
+multiverse_ids:
+- 106645
+mtgo_id: 26183
+mtgo_foil_id: 26184
+tcgplayer_id: 14557
+cardmarket_id: 14058
+name: Akroma, Angel of Wrath
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/96c9646b-9223-4d4f-a7d0-fc6208cac8b8
+scryfall_uri: https://scryfall.com/card/tsb/1/akroma-angel-of-wrath?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.jpg?1682387017
+  normal: https://cards.scryfall.io/normal/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.jpg?1682387017
+  large: https://cards.scryfall.io/large/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.jpg?1682387017
+  png: https://cards.scryfall.io/png/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.png?1682387017
+  art_crop: https://cards.scryfall.io/art_crop/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.jpg?1682387017
+  border_crop: https://cards.scryfall.io/border_crop/front/9/6/96c9646b-9223-4d4f-a7d0-fc6208cac8b8.jpg?1682387017
+mana_cost: "{5}{W}{W}{W}"
+cmc: 8.0
+type_line: Legendary Creature — Angel
+oracle_text: Flying, first strike, vigilance, trample, haste, protection from black
+  and from red
+power: '6'
+toughness: '6'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- Vigilance
+- First strike
+- Protection
+- Haste
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6519be58-b8cb-4cd7-9f5b-4db23364715b
+set: tsb
+set_name: Time Spiral Timeshifted
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6519be58-b8cb-4cd7-9f5b-4db23364715b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/96c9646b-9223-4d4f-a7d0-fc6208cac8b8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A107f204c-9fd3-490d-8887-be63d14fc6a4&unique=prints
+collector_number: '1'
+digital: false
+rarity: special
+flavor_text: '"No rest. No mercy. No matter what."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spears
+artist_ids:
+- fce9030b-86bd-4439-b06a-920a1eeb184c
+illustration_id: c3c4bb0c-eed2-4a28-939a-a4e8bcb6ae36
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2696
+penny_rank: 3138
+prices:
+  usd: '3.41'
+  usd_foil: '21.89'
+  usd_etched: 
+  eur: '1.75'
+  eur_foil: '19.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106645
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Akroma%2C+Angel+of+Wrath&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Akroma%2C+Angel+of+Wrath&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Akroma%2C+Angel+of+Wrath
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14557?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Akroma%2C+Angel+of+Wrath&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26183?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

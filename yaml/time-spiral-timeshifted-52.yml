@@ -1,0 +1,114 @@
+---
+object: card
+id: '07328ef1-665c-4526-bd75-2b17aba38b4a'
+oracle_id: e6af56bf-bd78-4801-8f6e-033cdd68de3d
+multiverse_ids:
+- 108869
+mtgo_id: 26195
+mtgo_foil_id: 26196
+tcgplayer_id: 14660
+cardmarket_id: 14161
+name: Undead Warchief
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/07328ef1-665c-4526-bd75-2b17aba38b4a
+scryfall_uri: https://scryfall.com/card/tsb/52/undead-warchief?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.jpg?1562771350
+  normal: https://cards.scryfall.io/normal/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.jpg?1562771350
+  large: https://cards.scryfall.io/large/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.jpg?1562771350
+  png: https://cards.scryfall.io/png/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.png?1562771350
+  art_crop: https://cards.scryfall.io/art_crop/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.jpg?1562771350
+  border_crop: https://cards.scryfall.io/border_crop/front/0/7/07328ef1-665c-4526-bd75-2b17aba38b4a.jpg?1562771350
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Zombie
+oracle_text: |-
+  Zombie spells you cast cost {1} less to cast.
+  Zombie creatures you control get +2/+1.
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6519be58-b8cb-4cd7-9f5b-4db23364715b
+set: tsb
+set_name: Time Spiral Timeshifted
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6519be58-b8cb-4cd7-9f5b-4db23364715b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/07328ef1-665c-4526-bd75-2b17aba38b4a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6af56bf-bd78-4801-8f6e-033cdd68de3d&unique=prints
+collector_number: '52'
+digital: false
+rarity: special
+flavor_text: It has the strength of seven men. In fact, it used to be seven men.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Hildebrandt
+artist_ids:
+- 020f967b-0d2f-4166-aabe-901dba8bc7ec
+illustration_id: 88d928b9-9e2b-476b-8bf0-a09dbf1709a4
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1883
+prices:
+  usd: '11.31'
+  usd_foil: '15.73'
+  usd_etched: 
+  eur: '8.00'
+  eur_foil: '7.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108869
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Undead+Warchief&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Undead+Warchief&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Undead+Warchief
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14660?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Undead+Warchief&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26195?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

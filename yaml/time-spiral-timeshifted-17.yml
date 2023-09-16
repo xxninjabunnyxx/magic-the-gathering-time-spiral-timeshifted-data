@@ -1,0 +1,114 @@
+---
+object: card
+id: 980ada04-1fb2-4aa8-b342-8934767587e0
+oracle_id: 5fc1f04a-2c39-4b3a-b62e-6e30c3d8a583
+multiverse_ids:
+- 108794
+mtgo_id: 26039
+mtgo_foil_id: 26040
+tcgplayer_id: 14675
+cardmarket_id: 14176
+name: Witch Hunter
+lang: en
+released_at: '2006-10-06'
+uri: https://api.scryfall.com/cards/980ada04-1fb2-4aa8-b342-8934767587e0
+scryfall_uri: https://scryfall.com/card/tsb/17/witch-hunter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.jpg?1562780590
+  normal: https://cards.scryfall.io/normal/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.jpg?1562780590
+  large: https://cards.scryfall.io/large/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.jpg?1562780590
+  png: https://cards.scryfall.io/png/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.png?1562780590
+  art_crop: https://cards.scryfall.io/art_crop/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.jpg?1562780590
+  border_crop: https://cards.scryfall.io/border_crop/front/9/8/980ada04-1fb2-4aa8-b342-8934767587e0.jpg?1562780590
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Creature — Human Cleric
+oracle_text: |-
+  {T}: Witch Hunter deals 1 damage to target player or planeswalker.
+  {1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 6519be58-b8cb-4cd7-9f5b-4db23364715b
+set: tsb
+set_name: Time Spiral Timeshifted
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/6519be58-b8cb-4cd7-9f5b-4db23364715b
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/980ada04-1fb2-4aa8-b342-8934767587e0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5fc1f04a-2c39-4b3a-b62e-6e30c3d8a583&unique=prints
+collector_number: '17'
+digital: false
+rarity: special
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 1d2217c2-782d-4a85-a779-1eaeeb38c7a6
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18811
+penny_rank: 14795
+prices:
+  usd: '0.21'
+  usd_foil: '2.67'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '1.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108794
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Witch+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Witch+Hunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Witch+Hunter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/14675?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Witch+Hunter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/26039?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

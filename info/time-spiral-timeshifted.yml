@@ -1,0 +1,22 @@
+---
+object: set
+id: 6519be58-b8cb-4cd7-9f5b-4db23364715b
+code: tsb
+mtgo_code: tsb
+arena_code: tsb
+tcgplayer_id: 111
+name: Time Spiral Timeshifted
+uri: https://api.scryfall.com/sets/6519be58-b8cb-4cd7-9f5b-4db23364715b
+scryfall_uri: https://scryfall.com/sets/tsb
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsb&unique=prints
+released_at: '2006-10-06'
+set_type: expansion
+card_count: 121
+printed_size: 121
+parent_set_code: tsp
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: tsp
+block: Time Spiral
+icon_svg_uri: https://svgs.scryfall.io/sets/tsp.svg?1694404800
